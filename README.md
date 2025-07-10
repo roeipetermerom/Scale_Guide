@@ -7,11 +7,11 @@ Scale Guide provides musicians with detailed information about scales, and allow
 - Filter scales by liked status.
 - Customize your profile: name, photo, instrument.
 
-## Tech Stack
+Tech Stack
 
-- Fits Android devices
-- Written in Kotlin
-- Uses Firebase Authentication and Firestore
+- Platform: Android devices
+- Language: Kotlin
+- Backend: Firebase Authentication & Firestore
 
 ## Installation
 
