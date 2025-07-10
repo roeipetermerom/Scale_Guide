@@ -9,9 +9,9 @@ Scale Guide provides musicians with detailed information about scales, and allow
 
 ## Tech Stack
 
-Fits Android devices
-Written in Kotlin
-Uses Firebase Authentication and Firestore
+- Fits Android devices
+- Written in Kotlin
+- Uses Firebase Authentication and Firestore
 
 ## Installation
 
