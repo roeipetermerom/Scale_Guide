@@ -7,7 +7,7 @@ Scale Guide provides musicians with detailed information about scales, and allow
 - Filter scales by liked status.
 - Customize your profile: name, photo, instrument.
 
-Tech Stack
+## Tech Stack
 
 - Platform: Android devices
 - Language: Kotlin
